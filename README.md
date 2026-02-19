@@ -21,6 +21,8 @@
 * WPF (Windows Presentation Foundation)
 * ClosedXML (obsługa plików Excel)
 * System.Text.Json (zapis danych)
+<img width="1919" height="1036" alt="Grafik - Aplikacja " src="https://github.com/user-attachments/assets/23572faa-25a6-4526-93c2-c8b74713ab99" />
+<img width="1419" height="907" alt="Grafik Konwer to Exel" src="https://github.com/user-attachments/assets/8d6d25df-205d-447e-b2c5-4cae7d4def0a" />
 
 ---
 
